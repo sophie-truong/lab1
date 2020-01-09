@@ -32,10 +32,6 @@ body {
      position: absolute;
      z-index: -1;
 }
-.project {
-     background-color: gray;
-     margin-left: 10px;
-}
 
 img .thumbnail {
      width: 50px;
@@ -49,8 +45,7 @@ img .thumbnail {
 }
 
 .project {
-     background-color: gray;
-     margin-left: 10px;
+     margin-left: 20px;
 }
 
 
